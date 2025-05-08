@@ -1,0 +1,5 @@
+name: ValiomCore
+version: 1.0
+main: com.valiom.ValiomCore
+description: ValiomCore API principale pour tout le serveur
+author: chamaallow

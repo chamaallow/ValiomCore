@@ -1,0 +1,6 @@
+database:
+  host: 45.155.170.69
+  port: 3306
+  name: valiom_core
+  username: valiom
+  password: Val@47693!BDD@
